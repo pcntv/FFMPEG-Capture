@@ -1,0 +1,2 @@
+file 'F:\keepthis\intermediate.ts'
+file 'F:\keepthis\stream2.ts'
